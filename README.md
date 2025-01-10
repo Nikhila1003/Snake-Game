@@ -1,10 +1,11 @@
 # Snake-Game
-Snake game is implemented using vanilla HTML, CSS and JavaScript as part of my FrontEnd practice!
+I implemented a classic Snake Game using HTML, CSS, and vanilla JavaScript as part of my frontend development practice. The game includes the following features:
 
-Game has a following features,
-1. Food is randomly generated
-2. Snake size increases and it's speed when it eats food
-3. Keeps track of the score
-4. Displays the highscore
-5. Keeps track of the collisions for the snake.
+Randomized Food Generation: The food appears at random positions on the grid.
+Dynamic Gameplay: The snake's size increases, and its speed accelerates with each food item consumed.
+Score Tracking: The game keeps a real-time score based on the player's performance.
+High Score Display: The highest score is stored and displayed to motivate the player.
+Collision Detection: The game effectively handles collisions, ensuring the snake's interactions with itself or boundaries result in game-over scenarios.
 
+
+This project demonstrates my ability to implement interactivity and dynamic updates in web applications using core web technologies.
